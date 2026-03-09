@@ -9,7 +9,7 @@
 
 .bottom{
     display: flex;
-    gap: 80px;
+    gap: 100px;
 }
 
 .ref{
@@ -20,3 +20,4 @@
 h2{
     color: rgb(6, 108, 142);
 }
+
