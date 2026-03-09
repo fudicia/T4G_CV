@@ -1,0 +1,18 @@
+.big-div{
+    display: flex;
+    gap: 20px;
+} 
+
+.big-div img{
+    border-radius: 90px;
+}
+
+.bottom{
+    display: flex;
+    gap: 80px;
+}
+
+.ref{
+    font-family: cursive;
+    background-color: bisque;
+}
